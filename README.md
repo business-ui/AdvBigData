@@ -1,5 +1,5 @@
 # AdvBigData
-1. Apache Spark and Scala machine learning model I made on UNSW-NB15 Cybersecurity dataset for CAP6789 Advanced Big Data Analytics
+1. Apache Spark and Scala machine learning model I made on <a href="https://research.unsw.edu.au/projects/unsw-nb15-dataset">UNSW-NB15 Cybersecurity dataset</a> for CAP6789 Advanced Big Data Analytics
 - Data Cleaning
 - Transformations & Encodings
 - Input column vectorization
